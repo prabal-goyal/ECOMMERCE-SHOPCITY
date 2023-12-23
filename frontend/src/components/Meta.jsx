@@ -12,8 +12,8 @@ const Meta = ({ title, description, keywords }) => {
 
 Meta.defaultProps = {
   title: 'Welcome To ShopCity!',
-  description: 'We sell the best products for cheap',
-  keywords: 'electronics, buy electronics, cheap electroincs',
+  description: 'We sell the best products for cheap.',
+  keywords: 'electronics, buy electronics, cheap electronics',
 };
 
 export default Meta;
